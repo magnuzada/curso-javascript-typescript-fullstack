@@ -11,7 +11,7 @@ Exploração profunda da linguagem, estruturas de dados e algoritmos.
 - [x] Variáveis e Tipos
 - [x] Lógica de Programação
 - [x] Funções e Escopo Avançado (Ref: `01-fundamentos-js/funcoes`)
-  - *Closures, IIFE, Callbacks & Higher Order Functions*
+  - *Parâmetros (Rest/Spread, Default), Retorno, Closures & Factory Functions*
 - [x] JavaScript Assíncrono (Callbacks)
 - [x] Objetos & Design Patterns (Ref: `01-fundamentos-js/objetos`)
   - *Factory Functions, Getters/Setters, 'this' & Encapsulamento*
