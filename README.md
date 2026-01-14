@@ -11,10 +11,15 @@ Exploração profunda da linguagem, estruturas de dados e algoritmos.
 - [x] Variáveis e Tipos
 - [x] Lógica de Programação
 - [x] Funções e Escopo Avançado (Ref: `01-fundamentos-js/funcoes`)
-  - *Parâmetros (Rest/Spread, Default), Retorno, Closures & Factory Functions*
+  - *Parâmetros, Retorno, Closures, Factory Functions*
+  - *Recursividade & Funções Geradoras (Generators)*
+- [x] Manipulação de Arrays (Ref: `01-fundamentos-js/arrays`)
+  - *Operações de Corte (Splice), Concatenação (Spread)*
+  - *Programação Funcional: Filter, Map & Reduce*
 - [x] JavaScript Assíncrono (Callbacks)
 - [x] Objetos & Design Patterns (Ref: `01-fundamentos-js/objetos`)
-  - *Factory Functions, Getters/Setters, 'this' & Encapsulamento*
+  - *Factory vs Constructor Functions*
+  - *Getters/Setters & Encapsulamento*
 
 ### Módulo 2: Back-end Engineering
 Construção de APIs robustas e escaláveis.
