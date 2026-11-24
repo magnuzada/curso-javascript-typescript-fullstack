@@ -1,0 +1,14 @@
+# Arquivos temporarios gerados pela extensao Code Runner (VS Code)
+tempCodeRunnerFile.js
+
+# Estado local do OpenCode
+.opencode/
+
+# Dependencias (quando os modulos de Node/React comecarem)
+node_modules/
+
+# Logs e arquivos de sistema
+*.log
+*.bak
+.DS_Store
+Thumbs.db
